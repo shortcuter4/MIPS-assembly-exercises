@@ -1,3 +1,3 @@
 # MIPS Assembly exercises
 
-Some MIPS programs I have written that do several executions
+There are some MIPS programs written for practice.
